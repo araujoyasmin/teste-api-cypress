@@ -1,0 +1,23 @@
+{
+    "usuarios": [
+        {
+            "nome": "Joao Pedro",
+            "email": "joaopedro@email.com",
+            "password": "12345",
+            "administrador": "true"
+        },
+        {
+            "nome": "fulano 30",
+            "email": "fulano20@email.com",
+            "password": "12345",
+            "administrador": "true"
+        },
+        {
+            "nome": "Ciclano 3",
+            "email": "ciclano3@email.com",
+            "password": "12345",
+            "administrador": "false"
+        }
+    ]
+}
+
